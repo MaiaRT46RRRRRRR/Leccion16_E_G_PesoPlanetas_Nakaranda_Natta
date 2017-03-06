@@ -46,3 +46,34 @@ boton.onclick = function (){
     }
     return resultado;
   }
+  //Declaracion de funciones para cada operación matemática
+function mercurio(n1){
+  return ((n1/9.8)*3.7);
+}
+function jupiter(n1){
+return ((n1/9.8)*23.12);
+}
+function marte(n1){
+return ((n1/9.8)*3.71);
+}
+function venus(n1){
+return ((n1/9.8)*9,87);
+}
+function pluton(n1){
+return ((n1/9.8)*0.81);
+}
+function saturno(n1){
+return ((n1/9.8)*8.96);
+}
+function urano(n1){
+return ((n1/9.8)*8.69);
+}
+function neptuno(n1){
+return ((n1/9.8)*11);
+}
+function luna(n1){
+return ((n1/9.8)*1.622);
+}
+function sol(n1){
+return ((n1/9.8)*3.711);
+}
